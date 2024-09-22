@@ -1,4 +1,4 @@
-package builder;
+package creational;
 
 import clean.code.creational.builder.Builder;
 import clean.code.creational.builder.FacadePersonBuilder;
