@@ -26,7 +26,8 @@ public class ObserverTests {
         });
         p.setAge(23);
         p.setAge(27);
-        subscription.close();
+        subscription
+                .close();
         p.setAge(23);
 
 
